@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<COMANDA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="comanda.xsd">
+
+     <CUMPARATOR>Marcel</CUMPARATOR>
+
+    <PRODUS id-produs="1">
+        <NUME>Laptop ACER</NUME>
+        <CANTITATE>2</CANTITATE>
+        <DESCRIERE> Fie ca va aflati acasa, la scoala sau la serviciu, obtineti toata performanta
+            decare aveti nevoie cu cele mai recente procesoare Intel sau AMD; mentinand ordinea
+            siasigurand functionarea constanta si fara probleme a aplicatiilor dvs. </DESCRIERE>
+        <PRET valuta="RON">1999.99</PRET>
+    </PRODUS>
+
+    <PRODUS id-produs="2">
+        <NUME>Televizor SAMSUNG</NUME>
+        <CANTITATE>5</CANTITATE>
+        <DESCRIERE> Vizionezi filmele si ai senzatia ca te afli acolo. PurColor permite
+            televizorului sa redea o gama larga de culori, pentru o performanta optima a imaginii si
+            o experienta de vizionare captivanta. </DESCRIERE>
+        <PRET valuta="RON">1460.99</PRET>
+    </PRODUS>
+
+    <PRODUS id-produs="3">
+        <NUME>Aparat de ras PHILIPS</NUME>
+        <CANTITATE>2</CANTITATE>
+        <PRET valuta="EUR">99.99</PRET>
+    </PRODUS>
+</COMANDA>
